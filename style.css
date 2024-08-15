@@ -14,3 +14,30 @@
   border: 1px solid #ccc; /* Optional: Add border for better visibility */
   box-sizing: border-box;
 }
+
+#reset {
+  background-color: aquamarine;
+  border-radius: 8px;
+  border: none;
+  width: 70px;
+  height: 40px;
+}
+#resize {
+  background-color: aquamarine;
+  border-radius: 8px;
+  border: none;
+  width: 70px;
+  height: 40px;
+}
+#random-button {
+  background-color: aquamarine;
+  border-radius: 8px;
+  border: none;
+  width: 70px;
+  height: 40px;
+}
+
+#controls {
+  display: flex;
+  gap: 10px;
+}
