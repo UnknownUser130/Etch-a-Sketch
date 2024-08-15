@@ -10,4 +10,4 @@ This project is a web-based Etch-a-Sketch application that allows users to draw 
 - **Reset Grid**: Clear the grid and reset to the default size.
 - **Resize Grid**: Change the size of the grid to a custom value.
 
-Open `https://etch-a-sketch-54hp.onrender.com` in your web browser.
+[Click here](https://etch-a-sketch-54hp.onrender.com) to view in your web browser.
